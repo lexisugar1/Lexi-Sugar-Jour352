@@ -32,6 +32,12 @@ body {
   min-width: 300px;
 
 }
+strong {
+  color:#33485e;
+  text-transform:uppercase;
+  font-size:1.5em;
+  text-align: center;
+
 /*Job Titles*/
 h3 {
   font-size:1.5em;
