@@ -1,11 +1,12 @@
-/*Main Style*/
+/*styles for my Resume*/
+
+
+
 body {
   font-family:'Open Sans',Arial, sans-serif;
-  font-size: 1em;
-  color:#444;
-  font-weight:400;
 }
-/*Banner Name at Top*/
+
+/* Name */
 #name{
   font-size:3em;
   text-transform: uppercase;
@@ -16,18 +17,13 @@ body {
   margin: 0 auto;
 }
 
-strong {
-  color:#33485e;
-  text-transform:uppercase;
-  font-size:1.5em;
-
-}
 /*Section Titles*/
 .sectionheader{
   font-size: 1.5em;
-  text-transform:uppercase;
-  background-color:#33485e;
+  background:#33485e;
   color:#fff;
+  text-transform:uppercase;
+  font-weight: 400;
 
 }
 /*Job Titles*/
