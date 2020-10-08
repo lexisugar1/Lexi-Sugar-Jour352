@@ -39,7 +39,7 @@ strong {
   text-align: center;
 
 /*Job Titles*/
-h3 {
+.jobtitle{
   font-size:1.5em;
   font-weight:600;
 }
