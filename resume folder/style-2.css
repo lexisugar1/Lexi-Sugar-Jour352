@@ -39,12 +39,13 @@ strong {
   text-align: center;
 
 /*Job Titles*/
+}
 .jobtitle{
   font-size:1.5em;
   font-weight:600;
 }
 /*Job Organization*/
-h4{
+.organization{
   font-weight:400;
   font-size: 1.5em;
 }
