@@ -61,6 +61,16 @@ strong {
   margin-right:0;
   }
 
-  li {
-    font-size:1em;
-  }
+/*Description for p tags*/
+.description{
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/*Unordered list containing contact info*/
+.menu{
+margin:0;
+padding:0px;
+}
