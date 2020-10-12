@@ -85,12 +85,8 @@ ul{
 margin:0;
 padding:0px;
 text-align: center;
-}
+display: inline;
 
-.menu:target{
-ul {
-  display: inline;
-  }
 
 /*Unordered list containing education info*/
 #degrees{
