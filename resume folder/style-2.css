@@ -81,14 +81,14 @@ margin:0 auto;
 
 /*Unordered list containing contact info*/
 .menu{
-li{
+ul{
 margin:0;
 padding:0px;
 text-align: center;
 }
 
 .menu:target{
-  li{
+ul{
     display:inline-block;
   }
 
