@@ -81,7 +81,7 @@ p.description{
 
 /*Unordered list containing contact info*/
 .menu{
-li{
+ul{
 margin-top:0;
 margin-bottom:0;
 margin-right:0;
@@ -91,7 +91,7 @@ text-align: center;
 }
 
 .menu:target{
-li{
+ul{
     display:inline-block;
   }
 
