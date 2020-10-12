@@ -39,16 +39,16 @@ padding:50px;
 }
 
 /*My Title*/
-#title {
+#title{
   color:#33485e;
   text-transform:uppercase;
   font-size:1.5em;
-  text-align:center;
-  font-weight:600px;
+  text-align: center;
+  font-weight:600;
   margin-top:20px;
-  margin-bottom:0px;
-  margin-right:0px;
-  margin-left:0px;
+  margin-bottom:0;
+  margin-left:0;
+  margin-right:0;
 }
 
 /*Job Titles*/
