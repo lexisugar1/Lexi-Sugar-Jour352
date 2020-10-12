@@ -33,11 +33,16 @@ body {
 
 }
 /*My Title*/
-strong {
+.title{
   color:#33485e;
   text-transform:uppercase;
   font-size:1.5em;
   text-align: center;
+  font-weight:600px;
+  margin-top:20px;
+  margin-bottom:0px;
+  margin-right:0px;
+  margin-left:0px;
 
 /*Job Titles*/
 }
@@ -96,4 +101,12 @@ margin-top:5px;
 margin-bottom:0;
 margin-right:0;
 margin-left:0;
+}
+
+/*Mission statement*/
+.top{
+  width:60%;
+  min-width:300px;
+  margin:0 auto;
+  margin-bottom:30px;
 }
