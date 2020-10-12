@@ -6,6 +6,10 @@ body {
   font-family:'Open Sans',Arial, sans-serif;
 }
 
+#container{
+width:100%;
+max-width:1200px;
+}
 /* Name */
 #name{
   font-size:3em;
