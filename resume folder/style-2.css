@@ -73,4 +73,11 @@ strong {
 .menu{
 margin:0;
 padding:0px;
+text-align: center;
 }
+
+.menu:target{
+  li{
+    display:inline;
+    list-style-type: none;
+  }
