@@ -83,7 +83,7 @@ p.description{
 }
 
 /*Added an unordered list containing my contact info*/
-.menu li{
+.menu {
 padding:0;
 margin:0;
 text-align: center;
