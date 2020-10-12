@@ -82,15 +82,12 @@ p.description{
 
 /*Unordered list containing contact info*/
 .menu{
-ul{
+padding:0;
 margin:0;
-padding:0px;
 text-align: center;
-display:inline;
 }
 
-.menu:target{
-ul{
+.menu li{
   display: inline;
 }
 
