@@ -12,7 +12,7 @@ max-width:1200px;
 margin:0 auto;
 padding:50px;
 }
-/* Name */
+/* Put my name in blue at the top and emphasized it*/
 #name{
   font-size:3em;
   text-transform: uppercase;
@@ -39,7 +39,7 @@ padding:50px;
   min-width: 300px;
 }
 
-/*My Title*/
+/*Made my title stand out*/
 #title{
   color:#33485e;
   text-transform:uppercase;
@@ -81,7 +81,7 @@ p.description{
   margin-right: 0;
 }
 
-/*Unordered list containing contact info*/
+/*Added an unordered list containing my contact info*/
 .menu {
 padding:0;
 margin:0;
@@ -92,7 +92,7 @@ text-align: center;
   display: inline;
 }
 
-/*Unordered list containing education info*/
+/*Added an unordered list containing my education info*/
 #degrees{
 margin-top:5px;
 margin-bottom:0px;
