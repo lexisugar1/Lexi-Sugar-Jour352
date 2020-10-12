@@ -71,7 +71,7 @@ strong {
 
 /*Unordered list containing contact info*/
 .menu{
-  li{
+li{
 margin:0;
 padding:0px;
 text-align: center;
@@ -80,7 +80,6 @@ text-align: center;
 .menu:target{
   li{
     display:inline;
-    list-style-type: none;
   }
 
 /*Unordered list containing education info*/
