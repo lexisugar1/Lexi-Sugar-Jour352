@@ -28,10 +28,11 @@ body {
   margin-bottom:10px;
   margin-right:0;
   margin-left: 0;
-  width:70%
+  width:70%;
   min-width: 300px;
 
 }
+/*My Title*/
 strong {
   color:#33485e;
   text-transform:uppercase;
