@@ -35,8 +35,8 @@ margin:0 auto;
   margin-left: 0;
   width:70%;
   min-width: 300px;
-
 }
+
 /*My Title*/
 .title{
   color:#33485e;
@@ -51,7 +51,6 @@ margin:0 auto;
 }
 
 /*Job Titles*/
-}
 .jobtitle{
   font-size:1.5em;
   font-weight:600;
