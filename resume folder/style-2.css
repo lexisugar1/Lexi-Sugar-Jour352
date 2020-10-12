@@ -79,7 +79,7 @@ text-align: center;
 
 .menu:target{
   li{
-    display:inline;
+    display:inline-block;
   }
 
 /*Unordered list containing education info*/
