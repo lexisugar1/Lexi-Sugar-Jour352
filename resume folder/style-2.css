@@ -71,6 +71,7 @@ strong {
 
 /*Unordered list containing contact info*/
 .menu{
+  li{
 margin:0;
 padding:0px;
 text-align: center;
@@ -88,4 +89,9 @@ margin-top:5px;
 margin-bottom:0px;
 margin-right:0px;
 margin-left:0px;
+}
+
+/*Unordered list containing skills section*/
+#do{
+
 }
